@@ -5,6 +5,7 @@
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
 
 ## 🧠 Algorithm
+```
 Algorithm:
 1.Start the program.
 2.Assign a as the result of False == True.
@@ -17,7 +18,7 @@ Algorithm:
 9.Print the value of d.
 10.End the program.
 
-
+```
 ## 💻 Program
 Add Code here
 ```
